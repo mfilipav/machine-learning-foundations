@@ -1,1 +1,3 @@
-Basic Machine Learning algorithms as learned in Learning and Intelligent Systemms (LIS) 2016FS w/ A. Krause
+Machine Learning algorithms implemented in Python3 Jupyter notebooks. 
+
+Adapted from Learning and Intelligent Systemms (LIS) course with Prof. Krause (https://las.inf.ethz.ch/teaching/lis-s16)
